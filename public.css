@@ -1,0 +1,28 @@
+/* My Ads Manager — Frontend Styles */
+
+.mam-ad {
+    display: block;
+    margin: 1em auto;
+    text-align: center;
+}
+
+.mam-ad img {
+    max-width: 100%;
+    height: auto;
+}
+
+.mam-ad a {
+    display: inline-block;
+    border: 0;
+    text-decoration: none;
+}
+
+.mam-image-link img {
+    display: block;
+}
+
+.mam-dummy {
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}

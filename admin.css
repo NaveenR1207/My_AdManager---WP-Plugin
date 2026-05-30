@@ -1,0 +1,49 @@
+/* My Ads Manager — Admin Styles */
+
+.mam-type-options {
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.mam-type-options label {
+    display: block;
+    margin: 8px 0;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.mam-type-options label:hover {
+    background: #f0f0f0;
+    border-radius: 3px;
+}
+
+#mam-image-preview {
+    margin-bottom: 10px;
+}
+
+#mam-image-preview img {
+    max-width: 200px;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 4px;
+    background: #fff;
+}
+
+.mam-admin .form-table th {
+    width: 220px;
+    vertical-align: top;
+    padding-top: 10px;
+}
+
+.mam-ad-type,
+.mam-ad-content,
+.mam-ad-image,
+.mam-ad-size,
+.mam-ad-link,
+.mam-ad-expiry,
+.mam-ad-group {
+    margin-bottom: 0;
+}
